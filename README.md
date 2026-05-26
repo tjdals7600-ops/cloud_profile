@@ -8,7 +8,7 @@ http://13.124.100.1:8080/actuator/health
 http://13.124.100.1:8080/actuator/info
 
 
-##RDS 보안 그룹 스크린샷
+## RDS 보안 그룹 스크린샷
 <img width="2180" height="234" alt="보안 그룹 과제 제출" src="https://github.com/user-attachments/assets/2a30bc07-42c9-404c-8483-69762085ac6f" />
 
 
