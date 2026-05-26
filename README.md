@@ -1,0 +1,16 @@
+<img width="2544" height="1307" alt="lv0 budget 설정" src="https://github.com/user-attachments/assets/66cb2bcc-17e1-4b42-be7b-f1fdc610db3d" />
+
+## 완성된 EC2 퍼블릭 IP
+http://13.124.100.1:8080/actuator/health
+
+
+## Actuator Info 엔드포인트 URL
+http://13.124.100.1:8080/actuator/info
+
+
+##RDS 보안 그룹 스크린샷
+<img width="2180" height="234" alt="보안 그룹 과제 제출" src="https://github.com/user-attachments/assets/2a30bc07-42c9-404c-8483-69762085ac6f" />
+
+
+## Presigned URL (26일 발급 - 유효기간 7일)
+https://project-member-tjdals7600-file.s3.ap-northeast-2.amazonaws.com/uploads/763e2dcc-f108-4c2f-bf23-cf7d60fb2843_20250626500396.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkgwRgIhAJ2WFClYiX0aq6HNo4Xgn02lWotnlAzXwwGJZqR4GgWDAiEA0Hti6farCQ20ogd8OTZPx3O%2FX8wOk9nYy9xijkUOn%2BcqygUIdBAAGgw5NDUxMjk0MzAxNTIiDPi%2Fn485R8mwxL2puCqnBZFw4PqZabyYu2SSfsBASHyY8GWdqMgHt1FCwS5L0OZaUSAo5rPMpJlKs9zqPi9cjWrc5qxGe6UHPWdk3GeiTT%2BF25XvHlGqfr6sqVjxNnAgVgrHp03hpdWxe0eBfirKSJCqQzVAcKAWuC5Jhvh5OaHNrwzC3DC5zO9WWckQqRenXuPN8piJC8fvAOUTw7uo8aYvNYXTDReUQ1fcG%2FggKrea5HhCleHloIrRVT%2BxWbqD791lEQ3wYUL9nc9B4k0cxUlFJh9jSIbCsLywAL6VvhDZj2HMv11XjIEm53Nw8x8ebL%2BH1mtpKOXjUEsjQwtvORtWw%2FbCRnjoUF0Nfo56lw1A1JgLSaFmtBSaIqaMIjm0EpX%2FQ2j2ddlf3J8pRUjgsXYIq4acHRarDvbXxp7Zrc1ymtUNIfHT9rccsN4i2MzZY4zRme6aHvf%2B7fmBjsbU4LtASBsAlAN4O4%2BgdlOb8n4FHRIV7u5Y3Dd5888YUA%2Fr8biWkTCNMaMn7ticSaCVv2ot3%2BVIGg7GZOFSzXoQQ6Ys7p2G0BVfmAKsttaeIoD2by0OgVOcIMsJ2zwcA4uVRO13j0cq%2B%2B6GTYV042QiCATdDVV2pHlw6QqD2CsFkOgRUbFzMKBUOUOfk71E%2FGxz79O2LuGbR2sfNaHUMIdQEP7Rc8H%2F10UZmzHO0oJcrFg87XglxYOwnkg6EMZrVbh4cDuo4Vi%2FiZrYAXLarAE%2FEAU8Iq7nevUmInZWh9Z9DOWYqFjCmGP6m6wcoI4zG1gp0rGI1vlslcxizz4zx8EF2wmAEZksk61hmX9GvXHL%2Fw5PMu7YRK%2FnNhQ%2F43D6Bp0Nm9VXs1Lv0mSQdpFcwoPrTHqe1LuJMgkXGTdMmIEreUZKQFNNlvy3G9qKMIbbzzEju0WXan2Gb4Uw%2FIrU0AY6sAHGEMFUmF4Z0899dkS1ndpaoUi9ZaConQCVdzz%2FKQ1gnapce6cae6xqLix5M7H1eQ7pvvf01qy%2BfPo6TAqzutI6fpZfDkdpg%2Fx89V%2B2uDgPMes43y12KREoJBqnF7EwqvJZw%2Bmo75FLq9fpvxZgqxtvMaEd1MoveuEY%2B9UPwrSknKjygY8PM0GpO%2FGIR4SccJG8fqscM%2Fz%2B9lQGJqPEJKWznfAFLXcOxpdHC3zm8EWh%2BQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260526T024737Z&X-Amz-SignedHeaders=host&X-Amz-Credential=ASIA5YDQ2TSEBBBW23UV%2F20260526%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Expires=604800&X-Amz-Signature=183ed674cecd39f23d103fba3f67d284a366e84c28f38474ca488e44f9139c59
